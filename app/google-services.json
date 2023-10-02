@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081937813765",
+    "project_id": "bildirimler-efcc9",
+    "storage_bucket": "bildirimler-efcc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081937813765:android:6002a3f7362a144dbd576c",
+        "android_client_info": {
+          "package_name": "com.example.notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7VnIf7wg5AcdSQ4Tql_sXyUGNaNB6rfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
